@@ -3,11 +3,11 @@ const OFFLINE_URL = '/offline.html';
 
 const urlsToCache = [
     '/',
+    '/about.html',
     '/index.html',
     '/style.css',
     '/app.js',
     '/offline.html',
-    '/icons/icon-192x192.png',
 ];
 
 // Install Service Worker
