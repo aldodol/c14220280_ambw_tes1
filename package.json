@@ -1,0 +1,11 @@
+{
+  "name": "blog-pwa",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "http-server -c-1 -p 3000 --verbose"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
